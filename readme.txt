@@ -1,6 +1,6 @@
-Librabry management system
+Library management system
 
-Курсова работа на езика Python на тема "Библиотека"
+Python "Библиотека"
 
 ~Предназначение:
 ‣Добавяне на книги в библиотека
